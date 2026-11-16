@@ -19,7 +19,42 @@ const menuItems = [
     price: "$5",
     image: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1703046887.jpg?c=original",
     description: "Served with fries and a drink for an additional $3. Make it a chili dog for an additional $2.",
-    extraDetails: "Ingredients (Regular): Potato bun, Beef hot dog, Mustard\n\nIngredients (Chili Dog): Potato Bun, Beef hot dog, Shredded cheese, Diced onion, Chili\n\n Allergens: Gluten, Dairy,\n\nCalories: 400"
+    extraDetails: "Ingredients (Regular): Potato bun, Beef hot dog, Mustard\n\nIngredients (Chili Dog): Potato Bun, Beef hot dog, Shredded cheese, Diced onion, Chili\n\n Allergens: Gluten, Dairy\n\nCalories: 400"
+  },
+  {
+    name: "Soft Pretzel",
+    price: "$4",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgt6XQuiWSjAvOFI8aAMm4LDp1HiYtRPiItVcXjc994Yasj9ERs2Q-Kx-i&s=10",
+    description: "Choose from cinnamon sugar or salted. Add a cup of cheese for an additional $1.",
+    extraDetails: "Ingredients: Flour, Yeast, Salt, Butter\n\nAllergens: Gluten\n\nCalories: 300"
+  },
+  {
+    name: "Nachos",
+    price: "$4",
+    image: "https://dailydishrecipes.com/wp-content/uploads/2014/06/Easy-Loaded-Beef-Nachos-Featured-Image-1.jpg",
+    description: "Choose from regular or supreme for an additional $2",
+    extraDetails: "Ingredients (Regular): Corn tortilla chips, Salt, Nacho cheese sauce\n\nIngredients (Supreme): Corn tortilla chips, Salt, Nacho cheese sauce, Jalapenos, Salsa, Ground beef\n\n Allergens: Dairy\n\nCalories: 450"
+  },
+  {
+    name: "Chicken Tenders",
+    price: "$7",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4ySMovvb35T8LsRdxRJW4iT8bxkZWekPNLpsaVcjc1rIZPRDJsQe-aeKP&s=10",
+    description: "Comes with 4 pieces. Served with fries and a drink for an additional $3",
+    extraDetails: "Ingredients: Breaded Chicken, Salt, Oil\n\n Allergens: Gluten\n\nCalories: 550"
+  },
+  {
+    name: "Mozzarella Sticks",
+    price: "$5",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB8qP-KJ7L_k9sOTwLlK-9ESBQ0Xt67Y5SkpXE1MeQkQ&s=10",
+    description: "Comes with 6 pieces and marinara sauce.",
+    extraDetails: "Ingredients: Breadcrumbs, Mozzarella, Salt, Oil\n\nIngredients (Sauce): Tomatoes, Olive oil, Garlic, Onion, Oregano\n\nAllergens: Gluten, Dairy\n\nCalories: 500"
+  },
+    {
+    name: "Wings",
+    price: "$8",
+    image: "https://www.foodandwine.com/thmb/NXUBQ0yUtxxf_jbUlhCMLXW9QD4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/FAW-recipes-crispy-chicken-wings-hero-02-6d627c282d3f4749a176e0ec34d2d6d7.jpg",
+    description: "Comes with 6 bone-in wings. Your choice of Buffalo, garlic parmesan, or barbeque sauce.",
+    extraDetails: "Ingredients: Chicken, Oil, Salt\n\nAllergens: Gluten\n\nCalories: 550"
   }
 ];
 
